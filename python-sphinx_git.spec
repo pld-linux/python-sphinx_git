@@ -7,7 +7,7 @@ Summary:	git Changelog for Sphinx
 Summary(pl.UTF-8):	Gitowy log zmian dla Sphinksa
 Name:		python-sphinx_git
 Version:	11.0.0
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-git/
